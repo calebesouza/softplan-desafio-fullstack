@@ -9,16 +9,17 @@ No terminal executar:
 > mvn clean install
 
 No eclipse:
-> Importar os projetos desafioBackend e desafioFrontend;
-> Pressionar ALT+F5 e selecionar para atualizar as dependencias dos projetos;
-> Na aba 'Servers' adicionar o Tomcat 9 e selecionar o projeto desafioFrontend;
+> Importar os projetos desafioBackend e desafioFrontend.
+> Pressionar ALT+F5 e selecionar para atualizar as dependencias dos projetos.
+> Na aba 'Servers' adicionar o Tomcat 9 e selecionar o projeto desafioFrontend.
 > Iniciar o servidor tomcat.
 
 No navegador:
-> digitar http://127.0.0.1:8080/desafioFrontend/ para executar o projeto;
+> digitar http://127.0.0.1:8080/desafioFrontend/ para executar o projeto.
 
 Obrigado pela oportunidade.
-OBS: Não tive tempo de implementar todos os testes unitários e desenvolver o controle de acesso com usuario/perfil com o spring-security.
+
+OBS: Não tive tempo de implementar todos os testes unitários e desenvolver o controle de usuario/perfil com o spring-security.
 
 # Desafio implementador fullstack
 
