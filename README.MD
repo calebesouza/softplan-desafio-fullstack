@@ -6,12 +6,16 @@ Para executar o projeto, é necessário ter configurado o ambiente com:
   
 No terminal executar:
 > $ git clone https://github.com/calebesouza/softplan-desafio-fullstack.git
+
 > mvn clean install
 
 No eclipse:
 > Importar os projetos desafioBackend e desafioFrontend.
+
 > Pressionar ALT+F5 e selecionar para atualizar as dependencias dos projetos.
+
 > Na aba 'Servers' adicionar o Tomcat 9 e selecionar o projeto desafioFrontend.
+
 > Iniciar o servidor tomcat.
 
 No navegador:
